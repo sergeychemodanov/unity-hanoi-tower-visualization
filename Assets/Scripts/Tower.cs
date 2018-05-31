@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 
-public class Tower : MonoBehaviour
+namespace HanoiTowerVisualization
 {
-    public Transform TopPoint;
+    public class Tower : MonoBehaviour
+    {
+        public Transform TopPoint;
+    }
 }
